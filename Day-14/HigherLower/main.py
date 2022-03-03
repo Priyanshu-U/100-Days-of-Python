@@ -3,7 +3,6 @@ from random import random
 import time
 import random
 import os
-from unicodedata import name
 import art
 import data
 
