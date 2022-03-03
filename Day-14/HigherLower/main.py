@@ -1,5 +1,4 @@
-from random import random
-
+import random
 import time
 import random
 import os
